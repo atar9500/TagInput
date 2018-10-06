@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HashTagInput</string>
+    <string name="action_settings">Settings</string>
+    <string name="type_hashtags">Type hashtags</string>
+</resources>
